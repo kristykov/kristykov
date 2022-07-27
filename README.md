@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+I'm Kristina and I focus on developing and testing user interfaces on responsive websites. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general. Currently, I'm looking for new opportunities and challenges. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
 <!--
-**kristykov/kristykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
