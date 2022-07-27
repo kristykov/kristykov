@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Kristina and I focus on developing and testing user interfaces on responsive websites. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, UI, UX, and design in general. Currently, I'm looking for new opportunities and challenges. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+## I'm Kristina and I focus on developing and testing user interfaces on responsive websites. 
+- 💻 &nbsp; I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.
+- 🦄 &nbsp; I also enjoy wireframing, UI/UX, and design in general. 
+- 🚀 &nbsp; Currently, I'm looking for new opportunities and challenges. 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Get In Touch
+<iframe src="https://giphy.com/embed/LPrbWzwlsHWj5enfwK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SurveyMonkey-data-question-surveymonkey-LPrbWzwlsHWj5enfwK">via GIPHY</a></p>
+Whether you have a question or just want to say hi, I’ll try my best to get back to you!
 <!--
 
 Here are some ideas to get you started:
