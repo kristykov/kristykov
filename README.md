@@ -21,7 +21,7 @@
 
 
 ## Some projects:
-- [RSlang](https://github.com/kristykov/rslang) / Application for learning 3600 most useful English words. App has 2 games and user's dictionary. [Repo](https://github.com/katkopikat/rslang)
+- [RSlang](https://rs-lang-rs-school.netlify.app/) / Application for learning 3600 most useful English words. App has 2 games and user's dictionary. [Repo](https://github.com/katkopikat/rslang)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Get In Touch
 Whether you have a question or just want to say hi, I’ll try my best to get back to you!
