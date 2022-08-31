@@ -5,10 +5,22 @@
 - 🦄 &nbsp; I also enjoy wireframing, UI/UX, and design in general. 
 - 🚀 &nbsp; Currently, I'm looking for new opportunities and challenges. 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=Next.js)
+![Redux](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=Redux)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5)
+![styled-components](https://img.shields.io/badge/-Styled_Component-0D1117?style=for-the-badge&logo=styled%20components)
+![CSS MODULES](https://img.shields.io/badge/-CSS_Modules-0D1117?style=for-the-badge&logo=css3)
+![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=sass)
+![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=Webpack)
+![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
 
-| <img src="https://media.giphy.com/media/LkO7DBM719E7L58XTx/giphy.gif" width="20px"> Languages | <img src="https://media.giphy.com/media/xEr5TCTPE2VZRTzAJO/giphy.gif" width="20px"> Technologies  |
-| ------- | --- | 
-| ![typescript](https://img.shields.io/static/v1?logo=typescript&label=&message=TypeScript&color=2e3440&logoColor=blue&style=flat-square) ![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=2e3440&logoColor=blue&style=flat-square)| ![react](https://img.shields.io/static/v1?logo=react&label=&message=React&color=2e3440&logoColor=blue&style=flat-square) ![angular](https://img.shields.io/static/v1?logo=angular&label=&message=Angular&color=2e3440&logoColor=blue&style=flat-square) ![nodejs](https://img.shields.io/static/v1?logo=node.js&label=&message=Node.js&color=2e3440&logoColor=blue&style=flat-square) | 
+
+## Some projects:
+- [RSlang](https://github.com/kristykov/rslang) / Application for learning 3600 most useful English words. App has 2 games and user's dictionary. [Repo](https://github.com/katkopikat/rslang)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Get In Touch
 Whether you have a question or just want to say hi, I’ll try my best to get back to you!
@@ -20,4 +32,7 @@ alt="linkedin" height="30"/></a>
 <a href="https://mailto:krikoax@gmail.com" target="blank"><img align="center"
 src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
 alt="gmail" height="30"/></a>
+
+
+
 
