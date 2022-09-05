@@ -18,6 +18,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-0D1117?style=for-the-badge&logo=Webpack)
 ![ESLint](https://img.shields.io/badge/-ESLint-0D1117?style=for-the-badge&logo=ESLint)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git)
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest)
 
 
 ## Some projects:
