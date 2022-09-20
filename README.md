@@ -23,6 +23,8 @@
 
 ## Some projects:
 - [RSlang](https://rs-lang-rs-school.netlify.app/) / Application for learning 3600 most useful English words. App has 2 games and user's dictionary. [Repo](https://github.com/kristykov/rslang)
+- [Christmas tree decoration](https://kristykov.github.io/Christmas-project/dist/) / A single page web application for decorating a Christmas tree. Pick any decorating toys you like, and use them for your own custom Christmas tree. 
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Get In Touch
 Whether you have a question or just want to say hi, I’ll try my best to get back to you!
