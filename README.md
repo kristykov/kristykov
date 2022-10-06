@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## I'm Kristina and I focus on developing and testing user interfaces on responsive websites. 
-- 💻 &nbsp; I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.
+- 💻 &nbsp; I really enjoy learning programming languages and libraries like React and React Native, as well as work in WordPress.
 - 🦄 &nbsp; I also enjoy wireframing, UI/UX, and design in general. 
 - 🚀 &nbsp; Currently, I'm looking for new opportunities and challenges. 
 
