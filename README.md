@@ -22,6 +22,7 @@
 
 
 ## Some projects:
+- [Food-delivery-app](https://food-order-delivery-app.netlify.app/) / Application for food ordering. Sign up to see dishes and make an order. [Repo](https://github.com/kristykov/Food-order-app)
 - [RSlang](https://rs-lang-rs-school.netlify.app/) / Application for learning 3600 most useful English words. App has 2 games and user's dictionary. [Repo](https://github.com/kristykov/rslang)
 - [Christmas tree decoration](https://kristykov.github.io/Christmas-project/dist/) / A single page web application for decorating a Christmas tree. Pick any decorating toys you like, and use them for your own custom Christmas tree. 
 
