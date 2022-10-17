@@ -30,6 +30,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Get In Touch
 Whether you have a question or just want to say hi, I’ll try my best to get back to you!
 <br>
+
 <br>
 <a href="https://www.linkedin.com/in/krystsina-kavalevich/" target="blank"><img align="center"
 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
